@@ -25,9 +25,6 @@ Detect and classify Rock, Paper, and Scissors hand gestures instantly using your
 
 ## 📦 Installation
 
-1. Clone this repository:
-   ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
 Run the following command in your terminal:
    pip install opencv-python ultralytics
   Replace webcam_detection.py with your Python filename if it is different.
